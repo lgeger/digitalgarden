@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/public/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/public/home/","title":"🏠Home","tags":["gardenEntry"]}
 ---
 
 
-主页
+# 🏠Home
